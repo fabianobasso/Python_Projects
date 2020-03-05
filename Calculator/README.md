@@ -1,7 +1,10 @@
-# Projeto Calculadora Simples
+# Project Calculator
 
-Apesar de simples neste código consigo mostrar muitas habilidades adquiridas durante meu curso de python.  
-Grande destaque do código a função que desenha a calculadora na tela:  
+Neste código consigo mostrar muitas habilidades adquiridas durante meu curso de python.  
+Grande destaque do código a função que desenha a calculadora na tela.
+
+In this code I can show many skills acquired during my python course.
+Highlight the code the function that draws the calculator on the screen.
 ```python
 def createCalc(self):
         self.result = tk.Entry(self.master,width=36)
@@ -23,7 +26,7 @@ def createCalc(self):
             j+=1
 ```
  
-Vídeos de demonstração:  
+Vídeos de demonstração / Demo video
 <img src="img/CalculadoraTk.gif" height="300" width="300"/>
 
 
